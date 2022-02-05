@@ -1,0 +1,200 @@
+BookmarkBegin
+BookmarkTitle: Neural Networks and Deep Learning
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkBegin
+BookmarkTitle: What this book is about
+BookmarkLevel: 2
+BookmarkPageNumber: 2
+BookmarkBegin
+BookmarkTitle: On the exercises and problems
+BookmarkLevel: 2
+BookmarkPageNumber: 5
+BookmarkBegin
+BookmarkTitle: Using neural nets to recognize handwritten digits
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkBegin
+BookmarkTitle: Perceptrons
+BookmarkLevel: 2
+BookmarkPageNumber: 9
+BookmarkBegin
+BookmarkTitle: Sigmoid neurons
+BookmarkLevel: 2
+BookmarkPageNumber: 16
+BookmarkBegin
+BookmarkTitle: The architecture of neural networks
+BookmarkLevel: 2
+BookmarkPageNumber: 21
+BookmarkBegin
+BookmarkTitle: A simple network to classify handwritten digits
+BookmarkLevel: 2
+BookmarkPageNumber: 24
+BookmarkBegin
+BookmarkTitle: Learning with gradient descent
+BookmarkLevel: 2
+BookmarkPageNumber: 29
+BookmarkBegin
+BookmarkTitle: Implementing our network to classify digits
+BookmarkLevel: 2
+BookmarkPageNumber: 42
+BookmarkBegin
+BookmarkTitle: Toward deep learning
+BookmarkLevel: 2
+BookmarkPageNumber: 57
+BookmarkBegin
+BookmarkTitle: How the backpropagation algorithm works
+BookmarkLevel: 1
+BookmarkPageNumber: 62
+BookmarkBegin
+BookmarkTitle: Warm up: a fast matrix-based approach to computing the output from a neural network
+BookmarkLevel: 2
+BookmarkPageNumber: 63
+BookmarkBegin
+BookmarkTitle: The two assumptions we need about the cost function
+BookmarkLevel: 2
+BookmarkPageNumber: 66
+BookmarkBegin
+BookmarkTitle: The Hadamard product, s⊙t
+BookmarkLevel: 2
+BookmarkPageNumber: 67
+BookmarkBegin
+BookmarkTitle: The four fundamental equations behind backpropagation
+BookmarkLevel: 2
+BookmarkPageNumber: 68
+BookmarkBegin
+BookmarkTitle: Proof of the four fundamental equations (optional)
+BookmarkLevel: 2
+BookmarkPageNumber: 75
+BookmarkBegin
+BookmarkTitle: The backpropagation algorithm
+BookmarkLevel: 2
+BookmarkPageNumber: 77
+BookmarkBegin
+BookmarkTitle: The code for backpropagation
+BookmarkLevel: 2
+BookmarkPageNumber: 79
+BookmarkBegin
+BookmarkTitle: In what sense is backpropagation a fast algorithm?
+BookmarkLevel: 2
+BookmarkPageNumber: 81
+BookmarkBegin
+BookmarkTitle: Backpropagation: the big picture
+BookmarkLevel: 2
+BookmarkPageNumber: 83
+BookmarkBegin
+BookmarkTitle: Improving the way neural networks learn
+BookmarkLevel: 1
+BookmarkPageNumber: 89
+BookmarkBegin
+BookmarkTitle: The cross-entropy cost function
+BookmarkLevel: 2
+BookmarkPageNumber: 90
+BookmarkBegin
+BookmarkTitle: Overfitting and regularization
+BookmarkLevel: 2
+BookmarkPageNumber: 111
+BookmarkBegin
+BookmarkTitle: Weight initialization
+BookmarkLevel: 2
+BookmarkPageNumber: 143
+BookmarkBegin
+BookmarkTitle: Handwriting recognition revisited: the code
+BookmarkLevel: 2
+BookmarkPageNumber: 149
+BookmarkBegin
+BookmarkTitle: How to choose a neural network's hyper-parameters?
+BookmarkLevel: 2
+BookmarkPageNumber: 160
+BookmarkBegin
+BookmarkTitle: Other techniques
+BookmarkLevel: 2
+BookmarkPageNumber: 177
+BookmarkBegin
+BookmarkTitle: A visual proof that neural nets can compute any function
+BookmarkLevel: 1
+BookmarkPageNumber: 191
+BookmarkBegin
+BookmarkTitle: Two caveats
+BookmarkLevel: 2
+BookmarkPageNumber: 193
+BookmarkBegin
+BookmarkTitle: Universality with one input and one output
+BookmarkLevel: 2
+BookmarkPageNumber: 195
+BookmarkBegin
+BookmarkTitle: Many input variables
+BookmarkLevel: 2
+BookmarkPageNumber: 207
+BookmarkBegin
+BookmarkTitle: Extension beyond sigmoid neurons
+BookmarkLevel: 2
+BookmarkPageNumber: 216
+BookmarkBegin
+BookmarkTitle: Fixing up the step functions
+BookmarkLevel: 2
+BookmarkPageNumber: 218
+BookmarkBegin
+BookmarkTitle: Conclusion
+BookmarkLevel: 2
+BookmarkPageNumber: 221
+BookmarkBegin
+BookmarkTitle: Why are deep neural networks hard to train?
+BookmarkLevel: 1
+BookmarkPageNumber: 223
+BookmarkBegin
+BookmarkTitle: The vanishing gradient problem
+BookmarkLevel: 2
+BookmarkPageNumber: 226
+BookmarkBegin
+BookmarkTitle: What's causing the vanishing gradient problem? Unstable gradients in deep neural nets
+BookmarkLevel: 2
+BookmarkPageNumber: 234
+BookmarkBegin
+BookmarkTitle: Unstable gradients in more complex networks
+BookmarkLevel: 2
+BookmarkPageNumber: 241
+BookmarkBegin
+BookmarkTitle: Other obstacles to deep learning
+BookmarkLevel: 2
+BookmarkPageNumber: 242
+BookmarkBegin
+BookmarkTitle: Deep learning
+BookmarkLevel: 1
+BookmarkPageNumber: 244
+BookmarkBegin
+BookmarkTitle: Introducing convolutional networks
+BookmarkLevel: 2
+BookmarkPageNumber: 246
+BookmarkBegin
+BookmarkTitle: Convolutional neural networks in practice
+BookmarkLevel: 2
+BookmarkPageNumber: 256
+BookmarkBegin
+BookmarkTitle: The code for our convolutional networks
+BookmarkLevel: 2
+BookmarkPageNumber: 272
+BookmarkBegin
+BookmarkTitle: Recent progress in image recognition
+BookmarkLevel: 2
+BookmarkPageNumber: 284
+BookmarkBegin
+BookmarkTitle: Other approaches to deep neural nets
+BookmarkLevel: 2
+BookmarkPageNumber: 294
+BookmarkBegin
+BookmarkTitle: On the future of neural networks
+BookmarkLevel: 2
+BookmarkPageNumber: 300
+BookmarkBegin
+BookmarkTitle: Appendix: Is there a simple algorithm for intelligence?
+BookmarkLevel: 1
+BookmarkPageNumber: 308
+BookmarkBegin
+BookmarkTitle: Acknowledgements
+BookmarkLevel: 1
+BookmarkPageNumber: 318
+BookmarkBegin
+BookmarkTitle: Frequently Asked Questions
+BookmarkLevel: 1
+BookmarkPageNumber: 319
