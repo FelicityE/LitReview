@@ -1,0 +1,34 @@
+Autoregression: An autoregression model makes an assumption that the observations at previous time steps are useful to predict the value at the next time step.
+    My Notes: 
+    "An autoregression model makes an assumption that the observations at previous time steps are useful to predict the value at the next time step."
+    If this is true then it means that AR expects the patterns to repeat to in time but this is not the case for EMG signals. 
+    
+
+    Links:
+    https://machinelearningmastery.com/autoregression-models-time-series-forecasting-python/#:~:text=Autoregression%20is%20a%20time%20series,range%20of%20time%20series%20problems
+
+CNN: 
+    My Notes:
+    Chen2020, Asif2020, and Zhai2017 all try different ways of representing the EMG signals as an image in order to use CNN.
+    Chen2020 depicts the activations as a heatmap over time making it effectively a video matrix
+    Asif2020 makes a channel x samples/window matrix. Effectively also feeding it into CNN as a "picture" 
+    Zhai2017 Uses PCA first on the dataset and adds the PC of each channel to a matrix that is sqrt(channel) x sqrt(channel). The PCs are added to the matrix where the most significant PC is at the center and the following PCs sprial clockwise outward to the edges. 
+
+
+General Notes:
+    Speech recognition is likely the most similar to EMG geusture recognition in terms of signal procressing.
+    Prediction is not recognition
+    EMG is not time series but instead a Markov process where the future states only depend on the current state not the previous states. 
+    Brian: Using change point detection to determine start of activation then using HMM
+
+Wiki-Chains:
+    Speech:
+        Notes: 
+            Other than in HMM it doesn't mention EMG being veiwed as a Markov process
+        Links: 
+        https://en.wikipedia.org/wiki/Speech_recognition
+        https://en.wikipedia.org/wiki/Hidden_Markov_model
+        https://en.wikipedia.org/wiki/Stochastic_process
+        https://en.wikipedia.org/wiki/Signal_processing
+        https://en.wikipedia.org/wiki/Gesture_recognition
+        https://en.wikipedia.org/wiki/Electromyography
