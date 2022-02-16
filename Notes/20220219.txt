@@ -1,3 +1,5 @@
+On work desktop delete fhe2 profile and replace with felicityhope3 profile. 
+
 Autoregression: An autoregression model makes an assumption that the observations at previous time steps are useful to predict the value at the next time step.
     My Notes: 
     "An autoregression model makes an assumption that the observations at previous time steps are useful to predict the value at the next time step."
