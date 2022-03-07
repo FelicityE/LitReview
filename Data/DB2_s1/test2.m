@@ -1,0 +1,1 @@
+data= LoadData("DB2_s1","-type","mat")
